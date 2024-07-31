@@ -51,7 +51,7 @@ const enableboxes =() =>{
     
     }
 const showwinner = (winner) =>{
-    msg.innerText= `CONGRACULATIONS Player${winner} you have won the game`;
+    winnermsg.innerText= `CONGRACULATIONS Player${winner} you have won the game`;
     msg.classList.remove("hide");
     disableboxes();
 
