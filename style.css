@@ -56,7 +56,6 @@ align-items: center;
     font-size: 1.25rem;
     background-color: #191913;
     color: white;
-   
     border-radius: 1rem;
     border: none;
 }
@@ -64,7 +63,8 @@ align-items: center;
     color: white;
     text-shadow: #191913;
     display: flex;
-    margin: 50px;
+    margin: 200px;
+    heigth: 650px;
 flex-direction: column;
     align-items: center;
 }
@@ -72,6 +72,6 @@ flex-direction: column;
     display: none;
 }
 #winnermsg{
-    font-size: 60px;
+    font-size: 45px;
     color: white;
 }
